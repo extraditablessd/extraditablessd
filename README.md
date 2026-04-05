@@ -74,7 +74,7 @@
   <a href="https://github.com/extraditablessd" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="mailto:bleesd@email.com" target="_blank">
+  <a href="mailto:thread-ouch-encore@duck.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/email-%23333.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" />
   </a>
   <a href="https://discord.gg/sFxkPQDnVF" target="_blank">
